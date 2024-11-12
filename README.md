@@ -3,7 +3,7 @@
   <a href="" target="_blank">weijunx</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="" />
+  
 </div>
 
 <br/>
